@@ -1,3 +1,4 @@
+
 const SIZE_SMALL = { price: 50, calories: 20 };
 const SIZE_LARGE = { price: 100, calories: 40 };
 const STUFFING_CHEESE = { price: 10, calories: 20 };
